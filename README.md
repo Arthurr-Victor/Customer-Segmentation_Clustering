@@ -1,9 +1,9 @@
 # Customer Segmentation: An Interesting Approach
 
-Introduction
+## Introduction
 This project aims to identify customer segments in a dataset using clustering techniques. By understanding customer behavior and preferences, businesses can tailor their products and services to meet the needs of their customers more effectively, leading to increased customer satisfaction and revenue.
 
-Data Source
+## Data Source
 The dataset used in this project is from a fictional retail company that sells various products. It includes information about customers, their purchasing behavior, and demographics. The dataset has been anonymized to ensure customer privacy.
 
 Data Cleaning
